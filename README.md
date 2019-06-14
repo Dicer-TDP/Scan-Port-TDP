@@ -2,7 +2,6 @@
 
 Created by: Ibnu Syawall
 Push Repo by: Dicer TDP
-
 Github: https://github.com/ibnusyawall
 
 Telegram: https://t.me/ibnusyawall
